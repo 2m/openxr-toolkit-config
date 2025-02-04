@@ -12,11 +12,11 @@
 "first_run2"=dword:00000003
 "overlay"=dword:00000002
 "scaling_type"=dword:00000000
-"vrs"=dword:00000001
+"vrs"=dword:00000000
 "vrs_cull_mask"=dword:00000001
 "vrs_quality"=dword:00000000
 "vrs_pattern"=dword:00000001
-"turbo"=dword:00000001
+"turbo"=dword:00000000
 "post_process"=dword:00000000
 "fov_type"=dword:00000000
 "fov"=dword:00000064
