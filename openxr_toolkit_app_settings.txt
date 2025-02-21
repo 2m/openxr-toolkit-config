@@ -11,8 +11,8 @@
 "module"="D:\\SteamLibrary\\steamapps\\common\\iRacing\\iRacingSim64DX11.exe"
 "first_run2"=dword:00000003
 "overlay"=dword:00000002
-"scaling_type"=dword:00000000
-"vrs"=dword:00000000
+"scaling_type"=dword:00000003
+"vrs"=dword:00000001
 "vrs_cull_mask"=dword:00000001
 "vrs_quality"=dword:00000000
 "vrs_pattern"=dword:00000001
